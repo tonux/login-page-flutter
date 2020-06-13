@@ -17,3 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 # login-page-flutter
 
 ![Image](images/screen.png =100x50)
+![alt text](images/screen.png){: .img-small}
+
